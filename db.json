@@ -53,6 +53,88 @@
       "id": 17
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Tasty Concrete Chips",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Steel Ball",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Generic Concrete Sausages",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Wooden Bacon",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "title": "Awesome Cotton Ball",
+      "id": 17
+    },
+    {
+      "userId": 8,
+      "title": "Rustic Metal Cheese",
+      "id": 18
+    },
+    {
+      "userId": 13,
+      "title": "Awesome Frozen Bike",
+      "id": 19
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=69199",
+      "id": 1
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=68796",
+      "id": 3
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=58963",
+      "id": 5
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=78638",
+      "id": 6
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=20549",
+      "id": 7
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=16035",
+      "id": 8
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=23864",
+      "id": 9
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=48572",
+      "id": 10
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=93440",
+      "id": 11
+    }
+  ]
 }
